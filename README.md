@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-The following folders need to exist: 
+The following folders need to exist (similar to this repo): 
 
 - data 
 - features
@@ -18,7 +18,7 @@ The following folders need to exist:
 - tables
 - figures
 
-All, but the data folder would contain outputs of the executed code below. The data folder contains all of the data files needed.
+All, but the data folder will contain the outputs of the executed code below. The data folder contains all of the data files needed.
 
 Then, to replicate our Tables and Figures, run the following command:
 ```
