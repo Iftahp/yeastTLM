@@ -4,7 +4,7 @@ General machine learning pipeline for telomere maintenance analysis in fission a
 ## Requirements and Installation
 Python 3.9.5+
 
-Install requirements
+The minimum version of dependencies are listed in the `requirements.txt` file and in order to install them execute:
 ```
 pip3 install -r requirements.txt
 ```
