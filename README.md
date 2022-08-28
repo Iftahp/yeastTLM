@@ -2,7 +2,7 @@
 General machine learning pipeline for telomere maintenance analysis in fission and budding yeast.
 
 ## Requirements and Installation
-Python 3.9.5+
+The code ran and tested on Python 3.9.5+.
 
 The minimum version of dependencies are listed in the `requirements.txt` file and in order to install them execute:
 ```
