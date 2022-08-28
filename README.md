@@ -8,7 +8,9 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-To replicate our Tables and Figures, run the following command:
+The following folders need to exist: data, features, results, tables and figures.
+All, but the data folder could be empty. 
+Then, to replicate our Tables and Figures, run the following command:
 ```
 python3 replicate_paper.py
 ```
