@@ -18,7 +18,7 @@ The following folders need to exist:
 - tables
 - figures
 
-All, but the data folder could be empty. 
+All, but the data folder could be empty. The data folder contains all of the data files.
 
 Then, to replicate our Tables and Figures, run the following command:
 ```
