@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-The following folders need to exist (similar to this repo): 
+The following folders need to exist prior to running the code (similar structure to this repo): 
 
 - data 
 - features
@@ -18,7 +18,9 @@ The following folders need to exist (similar to this repo):
 - tables
 - figures
 
-All, but the data folder will contain the outputs of the executed code below. The data folder contains all of the data files needed.
+All, but the data folder will contain the outputs of the code excution. 
+The data folder contains all of the data files needed.
+> **Note:** The data folder contians large sized files (above 100 MB).
 
 The final result should be:
 ```
