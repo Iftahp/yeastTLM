@@ -1,2 +1,0 @@
-BIOGRID-ORGANISM-Saccharomyces_cerevisiae_S288c-4.4.207.tab3.txt filter=lfs diff=lfs merge=lfs -text
-df_matrix_gi_all_genes.pkl filter=lfs diff=lfs merge=lfs -text
