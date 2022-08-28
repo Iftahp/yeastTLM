@@ -2,6 +2,8 @@
 General machine learning pipeline for telomere maintenance analysis in fission and budding yeast.
 
 ## Requirements and Installation
+Python 3.9.5+
+
 Install requirements
 ```
 pip3 install -r requirements.txt
