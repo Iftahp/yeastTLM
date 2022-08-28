@@ -15,6 +15,7 @@ The following folders need to exist:
 - results
 - tables
 - figures.
+
 All, but the data folder could be empty. 
 
 Then, to replicate our Tables and Figures, run the following command:
