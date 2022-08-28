@@ -14,7 +14,7 @@ The following folders need to exist:
 - features
 - results
 - tables
-- figures.
+- figures
 
 All, but the data folder could be empty. 
 
