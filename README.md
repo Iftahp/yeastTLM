@@ -22,7 +22,7 @@ All, but the data folder will contain the outputs of the code excution.
 The data folder contains all of the data files needed.
 > **Note:** The data folder contians large sized files (above 100 MB).
 
-The final result should be:
+The final project directory should look like:
 ```
 .
 ├── constants.py
@@ -37,7 +37,7 @@ The final result should be:
 └── tables
 ```
 
-Then, to replicate our Tables and Figures, run the following command:
+Then, to replicate our **Tables** and **Figures**, run the following command:
 ```
 python3 replicate_paper.py
 ```
