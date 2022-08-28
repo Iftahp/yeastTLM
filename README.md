@@ -27,7 +27,9 @@ python3 replicate_paper.py
 
 ## Contributing\Comments\Remarks
 
-Any contributions, comments, remarks, code bugs etc. are **greatly appreciated**, ping me at [![LinkedIn][linkedin-shield]][linkedin-url].
+Any contributions, comments, remarks, code bugs etc. are **greatly appreciated**, ping me at
+
+[![LinkedIn][linkedin-shield]][linkedin-url].
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/iftah-peretz-b8270a6a/
