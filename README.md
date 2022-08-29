@@ -23,7 +23,7 @@ All, but the data folder could be empty and will contain the outputs of the code
 The data folder contains **all** of the data files needed.
 > **Note:** The data folder contians large sized files (above 100 MB).
 
-The final project directory should look like:
+The final project directory should look like this:
 ```
 .
 ├── constants.py
