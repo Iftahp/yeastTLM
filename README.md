@@ -1,4 +1,4 @@
-# yeastTLM
+# A comparative analysis of telomere length maintenance circuits in fission and budding yeast
 General machine learning pipeline for telomere maintenance analysis in fission and budding yeast.
 
 ## Requirements and Installation
