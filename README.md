@@ -45,4 +45,3 @@ Then, to replicate our **Tables** and **Figures**, run the following command:
 ```
 python3 replicate_paper.py
 ```
-![image](https://user-images.githubusercontent.com/8279861/187547179-d2426259-4900-420a-af2d-74e7ef2eb5f2.png)
