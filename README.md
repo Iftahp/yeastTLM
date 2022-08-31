@@ -2,7 +2,7 @@
 Data and code for the [article](https://github.com/Iftahp/yeastTLM/#) by Iftah Peretz, Martin Kupiec and Roded Sharan are available in this repository.
 
 The paper aims at proposing a general machine learning pipeline for telomere maintenance analysis in fission and budding yeast.
-The code and data are provided as-is and comes with no warranties. We tried to provide detailed documentation within the code. 
+The code and data are provided as-is and comes with no warranties. We tried to provide detailed documentation within the code.<br/>
 Any feedback is welcomed (or there's trouble with executing the code) - see the paper for ways to contact us.
 
 ## Requirements and Installation
