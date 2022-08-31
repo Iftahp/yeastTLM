@@ -22,9 +22,9 @@ The following folders need to exist prior to running the code (similar structure
 - tables
 - figures
 
-All, but the data folder could be empty and will contain the outputs of the code excution. 
+All, but the data folder could be empty and will eventually contain the outputs of the code excution. 
 
-The data folder contains **all** of the data files needed.
+The data folder contains **ALL** of the data files needed.
 > **Note:** The data folder contians large sized files (above 100 MB).
 
 The final project directory should look like this:
