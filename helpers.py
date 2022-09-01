@@ -73,6 +73,7 @@ def get_alignment_score(s_gene: str,
 
     return align(pombe_s.seq, cerev_s.seq)
 
+
 def get_spo_gene_pombase(gene: str,
                          spo_pombase: pd.DataFrame) -> str:
     """
