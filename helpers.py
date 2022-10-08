@@ -615,6 +615,7 @@ def run_feature_importance_evaluation(df_feature: pd.DataFrame,
                 lr.named_steps['logisticregressioncv'].coef_.flatten()
     if verbose:
         print(f"No. samples {sample_size}, with {feature_size} features")
+    # keep the feature indices that partake in all of the runs    
     sum_feat = selected_features.sum()
     all_runs_feat_idx = sum_feat[sum_feat == selected_features.shape[0]].index
     return scores, coefs, feature_importance_mean, all_runs_feat_idx
