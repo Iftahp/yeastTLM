@@ -6,7 +6,7 @@ The code and data are provided as-is and comes with no warranties. We tried to p
 Any feedback is welcomed (or there are problems with executing the code) - see the paper for ways to contact us.
 
 ## Requirements and Installation
-The code ran and tested on Python 3.9.5+.
+The code was ran and tested on Python 3.9.5+.
 
 The dependencies are listed in the `requirements.txt` file and in order to install them execute:
 ```
