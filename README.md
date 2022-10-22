@@ -1,5 +1,5 @@
-# A comparative analysis of telomere length maintenance circuits in fission and budding yeast (under review)
-Data and code for the [article](https://github.com/Iftahp/yeastTLM/#) by Iftah Peretz, Martin Kupiec and Roded Sharan are available in this repository.
+# A comparative analysis of telomere length maintenance circuits in fission and budding yeast 
+Data and code for the [article](https://www.frontiersin.org/articles/10.3389/fgene.2022.1033113/abstract) by Iftah Peretz, Martin Kupiec and Roded Sharan are available in this repository.
 
 The paper aims at proposing a general machine learning pipeline for telomere length maintenance (TLM) analysis in fission and budding yeast.<br/>
 The code and data are provided as-is and comes with no warranties. We tried to provide detailed documentation within the code.<br/>
