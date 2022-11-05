@@ -46,3 +46,25 @@ Then, to replicate our **Tables** and **Figures**, run the following command:
 ```
 python3 replicate_paper.py
 ```
+
+If you found this beneficial for your study, please cite the following:
+```
+@ARTICLE{PeretzTLM2022,
+  
+AUTHOR={Peretz, Iftah and Kupiec, Martin and Sharan, Roded},   
+	 
+TITLE={A comparative analysis of telomere length maintenance circuits in fission and budding yeast},      
+	
+JOURNAL={Frontiers in Genetics},      
+	
+VOLUME={13},           
+	
+YEAR={2022},      
+	  
+URL={https://www.frontiersin.org/articles/10.3389/fgene.2022.1033113},       
+	
+DOI={10.3389/fgene.2022.1033113},      
+	
+ISSN={1664-8021}
+}
+```
